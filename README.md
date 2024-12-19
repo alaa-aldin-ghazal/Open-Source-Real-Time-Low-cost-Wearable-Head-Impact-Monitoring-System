@@ -18,3 +18,9 @@ visualization through an interactive HTML webpage, enabling the user (e.g., coac
 medical personnel) to assess the data and potentially recommend seeking medical
 attention if concerning readings are observed. The application of this device can be in
 different areas such as road accidents, contact sports, military, and mine workers.
+![Connections](https://github.com/user-attachments/assets/8a3f8831-c3b2-4884-bb86-18d5da839d3b)
+![image](https://github.com/user-attachments/assets/180d4024-d1df-416c-8c52-915238a407cb)
+![image](https://github.com/user-attachments/assets/45f6670d-4a93-411d-86d9-23d831488a82)
+
+
+
