@@ -22,7 +22,7 @@ different areas such as road accidents, contact sports, military, and mine worke
 ![Connections](https://github.com/user-attachments/assets/8a3f8831-c3b2-4884-bb86-18d5da839d3b)
 ![image](https://github.com/user-attachments/assets/180d4024-d1df-416c-8c52-915238a407cb)
 ![image](https://github.com/user-attachments/assets/45f6670d-4a93-411d-86d9-23d831488a82)
-![image](https://github.com/user-attachments/assets/acd031d2-fd6d-401b-9a62-074d467fa78d)
+![image](https://github.com/user-attachments/assets/d230ab22-6e0c-444d-adf3-ca6417e0e56c)
 
 
 
